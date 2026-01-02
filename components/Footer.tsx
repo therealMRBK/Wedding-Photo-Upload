@@ -8,7 +8,7 @@ const Footer: React.FC = () => {
         <span className="text-2xl serif italic tracking-widest">In Liebe, P & R</span>
       </div>
       <p className="text-[10px] uppercase tracking-[0.4em] text-gray-400">
-        &copy; {new Date().getFullYear()} - Schupka Hochzeitsgalerie
+        Schupka Hochzeitsgalerie
       </p>
     </footer>
   );
