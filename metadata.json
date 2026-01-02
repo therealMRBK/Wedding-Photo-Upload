@@ -1,0 +1,7 @@
+{
+  "name": "Eternity - Wedding Guest Gallery",
+  "description": "A minimalist black-and-white wedding platform where guests can upload and share photos and videos from the special day.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
